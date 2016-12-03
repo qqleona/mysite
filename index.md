@@ -19,3 +19,4 @@ A Bear.
  * 愛吃鬼。
 
 - - -
+左邊的：http://yusuke.hhtpe.me/
